@@ -11,17 +11,6 @@ description: "关于我？"
 [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fqi-jiu-en&query=count&color=282c34&label=%E7%9F%A5%E4%B9%8E&labelColor=0084ff&logo=zhihu&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://www.zhihu.com/people/qi-jiu-en)
 {.gallery data-height="22"}
 
-主攻React及其相关生态，最近在不断尝试自己的各种小项目^_^
-
-- 是余弦(cosine)那个cos，不是cosplay那个cos
-- 热爱写代码，现在热衷于前端开发，之前也有过不少后端的经验，现在正朝着大前端的方向努力
-- Gitbook 前端学习记录：[前言及目录 - 前端学习记录](https://book.cosine.ren/) 不断完善ing...
-- 个人博客
-  - xlog 链上版博客 👉 [https://x.cosine.ren/](https://x.cosine.ren/)
-  - Hexo 博客 👉 [cosine = 余弦の博客 = WA 的一声就哭了](https://ysx.cosine.ren/)
-
-愿热情永存，愿热爱不灭，愿生活无憾
-
 ![https://github.com/yusixian](https://github-readme-stats.vercel.app/api?username=yusixian&count_private=true&theme=dark&show_icons=true)
 ![snake gif](https://raw.githubusercontent.com/yusixian/yusixian/output/github-contribution-grid-snake.gif)
 {.gallery data-height="165"}
